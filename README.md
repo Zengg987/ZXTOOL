@@ -27,7 +27,8 @@ ZXTOOL is a **Network Analysis Toolkit v1.0** built with **C# .NET Core**, desig
 
 ### Screenshot
 
-![ZXTOOL Screenshot](image.png)
+![image](https://github.com/user-attachments/assets/206813c0-741c-49c3-8d5a-7136f9ace095)
+
 
 ---
 
