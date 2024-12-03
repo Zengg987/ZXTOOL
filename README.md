@@ -40,25 +40,6 @@ ZXTOOL is a **Network Analysis Toolkit v1.0** built with **C# .NET Core**, desig
 
 ---
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
-   ```
-
-2. Build the project:
-   ```bash
-   dotnet build
-   ```
-
-3. Run the tool:
-   ```bash
-   dotnet run
-   ```
-
----
 
 ### Usage
 
