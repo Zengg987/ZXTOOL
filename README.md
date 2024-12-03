@@ -35,7 +35,8 @@ ZXTOOL is a **Network Analysis Toolkit v1.0** built with **C# .NET Core**, desig
 ### Prerequisites
 
 1. **.NET Core SDK** installed on your system. [Download here](https://dotnet.microsoft.com/download).
-2. Administrative/root privileges may be required for some features (e.g., packet capture).
+2. **NPCAP** installed on your system. [Download here](https://npcap.com/#download).
+3. Administrative/root privileges may be required for some features (e.g., packet capture).
 
 ---
 
